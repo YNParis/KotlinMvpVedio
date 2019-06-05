@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/KotlinMvpVedio.iml" filepath="$PROJECT_DIR$/KotlinMvpVedio.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/multiple-status-view/multiple-status-view.iml" filepath="$PROJECT_DIR$/multiple-status-view/multiple-status-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiple-status-view/multiple-status-view.iml" filepath="$PROJECT_DIR$/multiple-status-view/multiple-status-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mvp-vedio-kotlin-mine.iml" filepath="$PROJECT_DIR$/.idea/mvp-vedio-kotlin-mine.iml" />
     </modules>
   </component>
 </project>
